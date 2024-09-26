@@ -1,5 +1,5 @@
 <h1>Projeto desenvolvido por:</h1>
-- Fernanda Kaory Saito - RM551104\n
+- Fernanda Kaory Saito - RM551104/n
 - Geovanna Silva Cunha - RM97736\n
 - Lana Giulia Auada Leite - RM551143\n
 - Lucas Palamartschuk de Toledo - RM97913\n
