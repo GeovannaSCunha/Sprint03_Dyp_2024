@@ -1,9 +1,9 @@
 <h1>Projeto desenvolvido por:</h1>
-- Fernanda Kaory Saito - RM551104
-- Geovanna Silva Cunha - RM97736
-- Lana Giulia Auada Leite - RM551143
-- Lucas Palamartschuk de Toledo - RM97913
-- Victor Camargo Maciel - RM98384
+- Fernanda Kaory Saito - RM551104\n
+- Geovanna Silva Cunha - RM97736\n
+- Lana Giulia Auada Leite - RM551143\n
+- Lucas Palamartschuk de Toledo - RM97913\n
+- Victor Camargo Maciel - RM98384\n
 
 <h1>LepArt</h1>
 <b>1. Introdução:</b>
