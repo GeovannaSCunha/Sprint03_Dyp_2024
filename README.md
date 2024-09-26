@@ -1,11 +1,11 @@
-#Projeto desenvolvido por:
+**Projeto desenvolvido por:
 - Fernanda Kaory Saito - RM551104
 - Geovanna Silva Cunha - RM97736
 - Lana Giulia Auada Leite - RM551143
 - Lucas Palamartschuk de Toledo - RM97913
 - Victor Camargo Maciel - RM98384
 
-#LepArt
+**LepArt
 1. Introdução
 Este projeto visa criar um sistema para registrar e avaliar sessões de treinamento de habilidades motoras, manuais e sensoriais de estudantes de medicina em uma plataforma de realidade virtual (VR). O sistema foi projetado para armazenar os dados dos estudantes e suas sessões de treinamento, calcular as pontuações baseadas no desempenho em três métricas principais (coordenação motora, habilidade manual e resposta sensorial), e fornecer uma avaliação geral do progresso do estudante ao longo do tempo.
 
